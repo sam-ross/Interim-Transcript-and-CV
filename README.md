@@ -1,10 +1,7 @@
 # Curriculum Vitae
 
+[Curriculum Vitae - Sam Ross.pdf](https://github.com/sam-ross/Interim-Transcript-and-CV/files/11303672/Curriculum.Vitae.-.Sam.Ross.pdf)
 
-
-[Curriculum Vitae - Sam Ross.pdf](https://github.com/sam-ross/Interim-Transcript-and-CV/files/11303449/Curriculum.Vitae.-.Sam.Ross.pdf)
-
-</br>
 
 # Interim-Transcript
 

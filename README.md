@@ -1,9 +1,18 @@
+# Final Degree Classification - 84%
+
+![Degree Classification](https://github.com/sam-ross/Interim-Transcript-and-CV/assets/67061245/8c3133b9-981f-4857-a55f-f77a8417c7ed)
+
+<br/>
+
 # Curriculum Vitae
 
-[Curriculum Vitae - Sam Ross.pdf](https://github.com/sam-ross/Interim-Transcript-and-CV/files/11303672/Curriculum.Vitae.-.Sam.Ross.pdf)
+[Curriculum Vitae - Sam Ross.pdf](https://github.com/sam-ross/Interim-Transcript-and-CV/files/12185450/Curriculum.Vitae.-.Sam.Ross.pdf)
 
 
-# Interim-Transcript
+<br/>
+
+
+# Interim-Transcripts
 
 ## Year 1 (2019/2020)
 
@@ -20,4 +29,5 @@
 
 ## Year 3 (2022/2023)
 
-![Year 3 Interim Transcript](https://user-images.githubusercontent.com/67061245/233835091-1031879b-0313-4003-b8e7-d3fea8d4dcc6.png)
+![Year 3 Interim Transcript](https://github.com/sam-ross/Interim-Transcript-and-CV/assets/67061245/21eda676-fb53-41bf-818c-6bcad255e332)
+
